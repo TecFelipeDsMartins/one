@@ -20,7 +20,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://www.youtube.com/watch?v=1XqHlWsMThA&list=PLXLvcDJ3jU1ZH3pDfVBlj7mkXRgH0denF" className={styles.card}>
             <h2 className={styles.h2}>Youtube playlist louvores &rarr;</h2>
-            <p>Aqui voce vai encontrar todas as 39 Músicas da playlist louvor ONE</p>
+            <p>Aqui você vai encontrar todas as 39 Músicas da playlist Lagoinha Porto Alegre "louvor ONE"</p>
           </a>
         </div>
       </main>
