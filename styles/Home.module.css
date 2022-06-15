@@ -2,6 +2,11 @@
   padding: 0 2rem;
 }
 
+.h2{
+  color: red;
+}
+
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
